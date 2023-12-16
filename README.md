@@ -1,0 +1,2 @@
+# Amezone
+# AmazonClone
